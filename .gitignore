@@ -1,0 +1,25 @@
+### Emacs
+\#*#
+\.#*
+*~
+*.bck
+
+### Python
+*.pyc
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+
+### Latex
+*.fls
+*.aux
+*.log
+*.fdb_*
+*.out
+*.blg
+*.bbl
+*eps-converted-to.pdf
+
+# Mac
+.DS_Store
