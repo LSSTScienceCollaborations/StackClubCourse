@@ -1,4 +1,4 @@
-# StackClubCourse
+# Stack Club Course
 
 Repository for course offered by the Stack Club.
 
