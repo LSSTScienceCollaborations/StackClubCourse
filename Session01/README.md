@@ -10,7 +10,8 @@
 * [On-boarding Document](https://docs.google.com/document/d/1cgWq_7ptUyHrgv6EwcE5LYuIOuVnrDxCfiTSsJRxEoE)
 * [Introduction Slides](https://docs.google.com/presentation/d/1VqTkgsrycxmxhiCu1Uv7zEIUYIerJwYT585mQncSAkQ)
 * [Live Notes](https://docs.google.com/document/d/1kcHJl6V2y9JGG_xxMMqFO66MGHWT6Jb6gv8wffyHeT8)
-
+* [Glossary of Terms](https://docs.google.com/document/d/1KBQadu99tV5VnFUbPKq4iqKEdgtBTCF1RJNWtXM_mF0)
+ 
 *Notebook*:
 
 *Session Recording*:
