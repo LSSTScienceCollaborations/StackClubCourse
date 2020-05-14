@@ -7,6 +7,7 @@ Repository for course offered by the Stack Club.
 
 For more information and resources, check out the main repository for the [Stack Club](https://github.com/LSSTScienceCollaborations/StackClub).
 * [Getting Started](https://github.com/LSSTScienceCollaborations/StackClub/blob/master/GettingStarted/GettingStarted.md)
+* [Documentation](https://stackclub.readthedocs.io/en/latest/)
 
 ## Installation
 
