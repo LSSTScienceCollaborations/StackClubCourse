@@ -9,6 +9,7 @@
 *Slides*:
 
 *Notebook*:
+* [IntroToDataProductsAndTasks.ipynb](IntroToDataProductsAndTasks.ipynb)
 
 *Session Recording*:
 * Zoom Video - TBD
