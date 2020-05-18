@@ -13,4 +13,4 @@
 * [IntroToDataProductsAndTasks.ipynb](IntroToDataProductsAndTasks.ipynb)
 
 *Session Recording*:
-* [Zoom Video](https://stanford.zoom.us/rec/share/9-xRf7ip2ltJSJGU8WyYBL4cFbzuX6a80yge__YOmUc2OGyQ5fS9sJSnw3nAuKYA) - Session starts around 00:11:00
+* [Zoom Video](https://stanford.zoom.us/rec/share/9-xRf7ip2ltJSJGU8WyYBL4cFbzuX6a80yge__YOmUc2OGyQ5fS9sJSnw3nAuKYA) - Session starts around 00:11
