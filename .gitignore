@@ -10,6 +10,8 @@
 build/
 dist/
 .ipynb_checkpoints/
+*/None0*.png
+*/Untitled.ipynb
 
 ### Latex
 *.fls
