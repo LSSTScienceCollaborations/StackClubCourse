@@ -7,5 +7,7 @@
 *Slides*:
 
 *Notebook*:
+* [matplotlib.ipynb](matplotlib.ipynb) - Introduction to matplotlib
+
 
 *Session Recording*:
