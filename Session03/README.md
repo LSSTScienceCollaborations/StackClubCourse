@@ -4,7 +4,7 @@
 
 *Background References*:
 * [Live notes](https://docs.google.com/document/d/1pXHiVycBYD8AJyeH82B6jE30NAoELJrAOox12fEjtfU)
-
+* [Glossary](https://docs.google.com/document/d/1KBQadu99tV5VnFUbPKq4iqKEdgtBTCF1RJNWtXM_mF0/edit#bookmark=id.tv5ptfwx28ms)
 
 *Slides*:
 * [Slides](https://docs.google.com/presentation/d/1q0bDucYrdGCNAAJh1a3uXY-CYbwtwd55eWDhJSDlzS0/edit?usp=sharing)
