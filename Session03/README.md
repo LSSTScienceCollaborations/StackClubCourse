@@ -3,6 +3,8 @@
 *Learning Goals*: Data Visualization
 
 *Background References*:
+* [Live notes](https://docs.google.com/document/d/1pXHiVycBYD8AJyeH82B6jE30NAoELJrAOox12fEjtfU)
+
 
 *Slides*:
 * [Slides](https://docs.google.com/presentation/d/1q0bDucYrdGCNAAJh1a3uXY-CYbwtwd55eWDhJSDlzS0/edit?usp=sharing)
