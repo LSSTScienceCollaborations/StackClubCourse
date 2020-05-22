@@ -16,3 +16,5 @@
 * [afw_display_intro.ipynb](afw_display_intro.ipynb) - Introduction to AFW Display
 
 *Session Recording*:
+
+* [Zoom Video](https://stanford.zoom.us/rec/share/49Z4drjJ1k1LYIHowXHdUf8PO7v3T6a8gyAc-_YLa35KaDYFUB_seK8MMtEA5Q) - Session starts at 00:14
