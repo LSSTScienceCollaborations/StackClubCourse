@@ -5,6 +5,7 @@
 *Background References*:
 
 *Slides*:
+* [Slides](https://docs.google.com/presentation/d/1q0bDucYrdGCNAAJh1a3uXY-CYbwtwd55eWDhJSDlzS0/edit?usp=sharing)
 
 *Notebook*:
 * [matplotlib.ipynb](matplotlib.ipynb) - Introduction to matplotlib (suggested pre-session warm-up)
