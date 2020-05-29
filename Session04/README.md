@@ -3,6 +3,7 @@
 *Learning Goals*: Image Processing
 
 *Background References*:
+* [ProcessCCD](https://pipelines.lsst.io/getting-started/processccd.html)
 
 *Slides*:
 
