@@ -8,6 +8,7 @@
 * [Glossary](https://docs.google.com/document/d/1KBQadu99tV5VnFUbPKq4iqKEdgtBTCF1RJNWtXM_mF0/edit#bookmark=id.tv5ptfwx28ms)
 
 *Slides*:
+* [Slides](https://docs.google.com/presentation/d/13kYEhKHXIOBYqgHr5JxjLgLflyExptDVyEf8xtOWp-s/edit)
 
 *Notebook*:
 
