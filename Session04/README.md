@@ -13,3 +13,4 @@
 *Notebook*:
 
 *Session Recording*:
+* [Zoom Video](https://stanford.zoom.us/rec/share/_JNlBpD97WBLH4HXxx79ZvYxBN7cT6a8hCYZ-aBYmB7g3kqTmVMjbkKSOBNw3NCp) - Session starts at 00:28
