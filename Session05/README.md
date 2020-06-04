@@ -7,5 +7,6 @@
 *Slides*:
 
 *Notebook*:
+* [lesson.ipynb](lesson.ipynb)
 
 *Session Recording*:
