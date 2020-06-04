@@ -5,6 +5,7 @@
 *Background References*:
 
 *Slides*:
+* [slides](https://docs.google.com/presentation/d/1F5zWqhDs0Zlj_916gVJWdbyv0NSZrSN1vV-FdwLxdkw/edit?usp=sharing)
 
 *Notebook*:
 * [lesson.ipynb](lesson.ipynb)
