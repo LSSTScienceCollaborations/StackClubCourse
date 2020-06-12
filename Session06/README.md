@@ -9,6 +9,7 @@
 * [Glossary](https://docs.google.com/document/d/1KBQadu99tV5VnFUbPKq4iqKEdgtBTCF1RJNWtXM_mF0/edit#bookmark=id.q337ed5rla1y)
 
 *Slides*:
+* [Slides](https://docs.google.com/presentation/d/1fZM-XHXk7FogOz94kb9G0Bn9E3rK89Gh7x53A_Q_KKE/edit?usp=sharing)
 
 *Notebook*:
 * [DataProductsToScience.ipynb](DataProductsToScience.ipynb)
