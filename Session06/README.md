@@ -15,4 +15,4 @@
 * [DataProductsToScience.ipynb](DataProductsToScience.ipynb)
 
 *Session Recording*:
-
+* [Zoom Video](https://stanford.zoom.us/rec/share/tJNuNKyor0lJHqPq1mXuZOkhGtWmeaa81yEe8_IEnxr4ZcW3DbIKc9GQGaLw3HhG) - Session starts at 00:10
