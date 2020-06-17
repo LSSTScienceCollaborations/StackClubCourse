@@ -12,4 +12,4 @@
 
 *Session Recording*:
 * [Zoom Video](https://stanford.zoom.us/rec/share/4epUE7TSqENLb6vi4n7QQrEtIaq_aaa8gCcW__teyx6ona_NR4Zjb5EUmfcLTJzu) - Session starts at 00:11
-* [Follow-up Video](https://stanford.zoom.us/rec/share/tdUuf5zgr0VJZJXJ1Ef8fPIzPJr_eaa80CUbqaBbykroAXw-B6m-JR5FN-kGf_RQ) - Session starts at 00:05
+* [Follow-up](https://stanford.zoom.us/rec/share/tdUuf5zgr0VJZJXJ1Ef8fPIzPJr_eaa80CUbqaBbykroAXw-B6m-JR5FN-kGf_RQ) - Session starts at 00:05
