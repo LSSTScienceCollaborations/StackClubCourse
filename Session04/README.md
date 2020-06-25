@@ -11,6 +11,7 @@
 * [Slides](https://docs.google.com/presentation/d/13kYEhKHXIOBYqgHr5JxjLgLflyExptDVyEf8xtOWp-s/edit)
 
 *Notebook*:
+* [bot_processing_panda.ipynb](bot_processing_panda.ipynb)
 
 *Session Recording*:
 * [Zoom Video](https://stanford.zoom.us/rec/share/_JNlBpD97WBLH4HXxx79ZvYxBN7cT6a8hCYZ-aBYmB7g3kqTmVMjbkKSOBNw3NCp) - Session starts at 00:28
