@@ -17,7 +17,7 @@ and https://docs.google.com/presentation/d/11cS7oeRglx8revYoh9z0kaXfb4biRRGTawBF
 
 4. DESC04_dia_source_object_stamp.ipynb
 
-Notebook developed by Michael Wood-Vasey as a DC2 anal
+Notebook developed by Michael Wood-Vasey as a DC2 analysis tutorial, showing how to work with DIAobject and DIAsource tables. 
 
 
 5. SC01_DIA_How_To_Generate_a_Template_Image.ipynb
