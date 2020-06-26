@@ -12,6 +12,7 @@ Session Index:
 * [Session 04](Session04) (Andrew Bradshaw) - Image processing
 * [Session 05](Session05) (Imran Hasan) - Source Detection and Measurement
 * [Session 06](Session06) (Bryce Kalmbach) - Difference imaging analysis
+* [Projects](Projects) - Final projects for the course
 
 
 For more information and resources, check out the main repository for the [Stack Club](https://github.com/LSSTScienceCollaborations/StackClub).
