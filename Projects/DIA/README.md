@@ -1,7 +1,29 @@
-### 2020.06.26 Friday 
-Stack Club session 07 
+###  Stack Club 2020 Summer Course
 
-# New additions to this repository : 
+2020.06.26 Friday
+### Project explanation
+ 
+This is the "DIA" project.  Goal is to plant fake stars (PSFs) into a calexp, subtract a template, check that the transient is detected in the resulting diff image(s) and do some data visualization (plot a light curve, show some postage stamps).  
+
+Possible extensions/variants: planting a grid of fakes of varying brightness and measuring detection efficiency; plant a cluster of closely-spaced fakes on top of bright galaxies (mimics strongly-lensed sources).  
+Note: We think this doesn't exist in StackClub repos, but its somewhat redundant with ongoing DESC-DC2-DIA work.  
+ 
+We're using the AP_pipeline for this, starting with HiTS2015 DECam data. 
+
+
+## Structure of the project notebooks
+
+1. 01_dia_data_discovery.ipynb : a nb for data exploration.  Answering the question: "If I have a data repo and I know it has some coadds in it, how do I find the info (visits, ccds, tracts, patches, dates) needed to make a time series of (calexp,coadd) pairs suitable for difference imaging and light curve construction?"
+ - started by Markus Rabus in session 08
+
+2. 02 planting fakes : adding fake PSFs to a calexp or series of calexps, with fixed RA,Dec across multiple epochs, so we can get a coherent light curve out of the source catalogs. 
+ - started by Dani Chao in session 08
+
+3. 03 running the ap_pipeline : making diff images using a set of cal
+
+
+
+## Resource / reference notebooks to draw from : 
 
 some resources that we can draw from for generating our stack club DIA notebook(s).
 All are in ''StackClubCourse/Projects/DIA/''
