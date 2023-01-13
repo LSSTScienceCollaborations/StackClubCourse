@@ -25,3 +25,7 @@ To install this repository, use:
 ```
 git clone https://github.com/LSSTScienceCollaborations/StackClubCourse.git
 ```
+
+## Acknowledgments
+
+The Stack Club is supported by a grant from the LSSTC Enabling Science Program (#2019-06).
